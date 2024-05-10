@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Samvardhan Singh Portfolio",
     type: "website",
-   url:"https://samvardhan.vercel.app/contact",
+   url:"https://samvardhan.vercel.app/",
   },
 };
 
@@ -469,7 +469,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "animated_ashutosh.png",
     description:
-      "I am actively looking for an opportunity to work in the field of engineering and technology, if you wish to work together on a project, please feel free to rech out!",
+      "I am actively looking for an opportunity to work in the field of engineering and technology, if you wish to work together on a project, please feel free to reach out!",
   },
   blogSection: {
     title: "Articles",
