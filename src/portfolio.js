@@ -78,7 +78,7 @@ const skills = {
       title: "Data Science & AI",
       fileName: "DataScienceImg",
       skills: [
-        "⚡Extensive GitHub portfolio with over 30 AI/ML projects demonstrating practical skills in implementing algorithms and techniques.",
+        "⚡Extensive GitHub portfolio with over 20 AI/ML projects demonstrating practical skills in implementing algorithms and techniques.",
         "⚡Strong Python skills combined with web development experience providing a solid foundation for data science and AI work",
         "⚡Regular blog writing on Medium simplifying neural network mathematics showcasing effective communication skills and a commitment to knowledge sharing in AI",
       ],
@@ -201,7 +201,7 @@ const degrees = {
         "⚡ Apart from this, I have done courses on Deep Learning, Data Science,AI, Data analytics and Web Development.",
       
       ],
-      website_link: "https://jphschool.com/",
+      website_link: "https://srmrmp.edu.in/",
     },
     {
       title: "",
@@ -213,7 +213,7 @@ const degrees = {
         "Class XII: 87%, CBSE",
         "Class X: 91.8%, CBSE"
       ],
-      website_link: "https://srmrmp.edu.in/",
+      website_link: "https://jphschool.com/",
     },
   ],
 };
