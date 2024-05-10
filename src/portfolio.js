@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Samvardhan Singh Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+   url:"https://samvardhan.vercel.app/contact",
   },
 };
 
