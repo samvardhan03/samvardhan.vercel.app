@@ -293,11 +293,11 @@ const certifications = {
       color_code: "#FFFFFF",
     },
     {
-      title: "IOT",
-      subtitle: "- TVS training services",
+      title: "OCI Generative AI Professional",
+      subtitle: "- Oracle",
       logo_path: "TVS.png",
       certificate_link:
-        "https://drive.google.com/file/d/1KzxMpwKxnza0-fofuHfTl1epXh8xlRPA/view?usp=sharing",
+        "https://catalog-education.oracle.com/pls/certview/sharebadge?id=3D8617AEE43AD2BF3DE7EA6328400967B7834753ACEEE98D611B5BA4B8AEC6E5",
       alt_name: "NPTEL",
       color_code: "#FFFFFF",
     },
