@@ -78,7 +78,7 @@ const skills = {
       title: "Data Science & AI",
       fileName: "DataScienceImg",
       skills: [
-        "⚡Extensive GitHub portfolio with over 20 AI/ML projects demonstrating practical skills in implementing algorithms and techniques.",
+        "⚡Extensive GitHub portfolio with more than 25 AI/ML projects demonstrating practical skills in implementing algorithms and techniques.",
         "⚡Strong Python skills combined with web development experience providing a solid foundation for data science and AI work",
         "⚡Regular blog writing on Medium simplifying neural network mathematics showcasing effective communication skills and a commitment to knowledge sharing in AI",
       ],
