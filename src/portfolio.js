@@ -204,8 +204,8 @@ const degrees = {
       website_link: "https://srmrmp.edu.in/",
     },
     {
-      title: "",
-      subtitle: "JPHS",
+      title: "Jayshree Periwal High School",
+      subtitle: "CBSE",
       logo_path: "iu_logo.png",
       alt_name: "Indiana University Bloomington",
       duration: "2006 - 2021",
