@@ -197,7 +197,7 @@ const degrees = {
       alt_name: "IIITDM Kurnool",
       duration: "2021 - 2025",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
+        "⚡ I have studied Machine Learning, Deep learning,DBMS,Applied programming, General Aptitude, DSA,OOPS in my college curriculum.",
         "⚡ Apart from this, I have done courses on Deep Learning, Data Science,AI, Data analytics and Web Development.",
       
       ],
@@ -205,13 +205,13 @@ const degrees = {
     },
     {
       title: "Jayshree Periwal High School",
-      subtitle: "CBSE",
+      subtitle: "Central Board of Secondary Education",
       logo_path: "iu_logo.png",
       alt_name: "Indiana University Bloomington",
       duration: "2006 - 2021",
       descriptions: [
-        "Class XII: 87%, CBSE",
-        "Class X: 91.8%, CBSE"
+        "Class XII: 87% with Physics, Chemistry and Mathematics.",
+        "Class X: 91.8%"
       ],
       website_link: "https://jphschool.com/",
     },
