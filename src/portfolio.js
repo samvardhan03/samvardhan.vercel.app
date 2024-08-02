@@ -221,6 +221,24 @@ const degrees = {
 const certifications = {
   certifications: [
     {
+      title: "OCI Generative AI Professional",
+      subtitle: "- Oracle",
+      logo_path: "TVS.png",
+      certificate_link:
+        "https://catalog-education.oracle.com/pls/certview/sharebadge?id=3D8617AEE43AD2BF3DE7EA6328400967B7834753ACEEE98D611B5BA4B8AEC6E5",
+      alt_name: "NPTEL",
+      color_code: "#FFFFFF",
+    },
+     {
+      title: "Coders Cave internship program",
+      subtitle: "- Coders Cave",
+      logo_path: "coderscave.png",
+      certificate_link:
+        "https://certificate.givemycertificate.com/c/afed6472-b825-4673-900f-191c9b69f5cd",
+      alt_name: "GCP",
+      color_code: "#FFFFFF",
+    },
+    {
       title: "IBM DATA SCIENCE ",
       subtitle: "- Rav Ahuja ",
       logo_path: "ibm_logo.png",
@@ -283,25 +301,7 @@ const certifications = {
       alt_name: "Coursera",
       color_code: "#FFFFFF",
     },
-    {
-      title: "Coders Cave internship program",
-      subtitle: "- Coders Cave",
-      logo_path: "coderscave.png",
-      certificate_link:
-        "https://certificate.givemycertificate.com/c/afed6472-b825-4673-900f-191c9b69f5cd",
-      alt_name: "GCP",
-      color_code: "#FFFFFF",
-    },
-    {
-      title: "OCI Generative AI Professional",
-      subtitle: "- Oracle",
-      logo_path: "TVS.png",
-      certificate_link:
-        "https://catalog-education.oracle.com/pls/certview/sharebadge?id=3D8617AEE43AD2BF3DE7EA6328400967B7834753ACEEE98D611B5BA4B8AEC6E5",
-      alt_name: "NPTEL",
-      color_code: "#FFFFFF",
-    },
-    
+      
   ],
 };
 
