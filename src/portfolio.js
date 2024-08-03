@@ -359,7 +359,7 @@ const experience = {
         {
           title: "Event Coordinator",
           company: "Elecxa By SRM",
-          company_url: "https://www.mozilla.org/",
+          company_url: "https://srmrmp.edu.in/national-level-symposium-elecxa24/",
           logo_path: "mozilla_logo.png",
           duration: "march 2024",
           location: "Chennai,India",
