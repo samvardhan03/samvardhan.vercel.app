@@ -229,15 +229,6 @@ const certifications = {
       alt_name: "NPTEL",
       color_code: "#FFFFFF",
     },
-    {
-      title: "IBM DATA SCIENCE ",
-      subtitle: "- Rav Ahuja ",
-      logo_path: "ibm_logo.png",
-      certificate_link:
-        "https://coursera.org/share/e8d525a4c1ede5b81dc6a574975a8504",
-      alt_name: "Stanford University",
-      color_code: "#FFFFFF",
-    },
      {
       title: "Coders Cave internship program",
       subtitle: "- Coders Cave",
@@ -245,6 +236,15 @@ const certifications = {
       certificate_link:
         "https://certificate.givemycertificate.com/c/afed6472-b825-4673-900f-191c9b69f5cd",
       alt_name: "GCP",
+      color_code: "#FFFFFF",
+    },
+    {
+      title: "IBM DATA SCIENCE ",
+      subtitle: "- Rav Ahuja ",
+      logo_path: "ibm_logo.png",
+      certificate_link:
+        "https://coursera.org/share/e8d525a4c1ede5b81dc6a574975a8504",
+      alt_name: "Stanford University",
       color_code: "#FFFFFF",
     },
     {
@@ -381,7 +381,7 @@ const experience = {
       ],
     },
     {
-      title: "Projects",
+      title: "Best Projects",
       work: true,
       experiences: [
         {
@@ -434,7 +434,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create AIML and DataScience projects and deploy them to web applications.",
+    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -474,7 +474,7 @@ const contactPageData = {
   blogSection: {
     title: "Articles",
     subtitle:
-      "I like to talk about the mathematical aspects on neural networks and other deep learning models.",
+      "I like to talk about the AI, machine learning, mathematical aspects of neural networks and other deep learning models.",
     link: "https://medium.com/@shekhawatsamvardhan",
     avatar_image_path: "blogs_image.svg",
   },
