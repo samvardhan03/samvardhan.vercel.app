@@ -338,20 +338,20 @@ const certifications = {
       color_code: "#FFFFFF",
     },
     {
-      title: "Acmegrade IOT Internship",
-      subtitle: "-Challa Rohit ",
-      logo_path: "amg.png",
-      certificate_link:
-        "https://www.linkedin.com/posts/samvardhan-singh_activity-6956856222310440960-Oljv?utm_source=share&utm_medium=member_desktop",
-      alt_name: "Coursera",
-      color_code: "#FFFFFF",
-    },
-    {
       title: "Tools for Data Science",
       subtitle: "- Alex Aklson",
       logo_path: "ibm_logo.png",
       certificate_link:
         "https://www.coursera.org/account/accomplishments/verify/FQ2Z3DDWAQZK",
+      alt_name: "Coursera",
+      color_code: "#FFFFFF",
+    },
+    {
+      title: "Acmegrade IOT Internship",
+      subtitle: "-Challa Rohit ",
+      logo_path: "amg.png",
+      certificate_link:
+        "https://www.linkedin.com/posts/samvardhan-singh_activity-6956856222310440960-Oljv?utm_source=share&utm_medium=member_desktop",
       alt_name: "Coursera",
       color_code: "#FFFFFF",
     },
