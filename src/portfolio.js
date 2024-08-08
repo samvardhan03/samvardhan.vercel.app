@@ -275,6 +275,15 @@ const certifications = {
       color_code: "#FFFFFF",
     },
     {
+      title: "ICONSCEPT 2024",
+      subtitle: "- NIT Puducherry",
+      logo_path: "NIT.png",
+      certificate_link:
+        "https://www.linkedin.com/posts/samvardhan-singh_authored-and-presented-my-research-paper-activity-7225408441253605376-422K?utm_source=share&utm_medium=member_desktop",
+      alt_name: "Coursera",
+      color_code: "#FFFFFF",
+    },
+    {
       title: "Data Analysis with Python",
       subtitle: "- Jospeh santarcangelo",
       logo_path: "ibm_logo.png",
@@ -302,6 +311,15 @@ const certifications = {
       color_code: "#FFFFFF",
     },
     {
+      title: "ITDECC 2023",
+      subtitle: "- SRM",
+      logo_path: "mozilla_logo.png",
+      certificate_link:
+        "https://www.linkedin.com/posts/samvardhan-singh_presented-a-paper-in-the-itdecc-conference-activity-7060262655663435776-mU-q?utm_source=share&utm_medium=member_desktop",
+      alt_name: "Coursera",
+      color_code: "#FFFFFF",
+    },
+    {
       title: "Data Science methodology",
       subtitle: "- Jogesh Muppala",
       logo_path: "ibm_logo.png",
@@ -320,27 +338,18 @@ const certifications = {
       color_code: "#FFFFFF",
     },
     {
+      title: "Acmegrade IOT Internship",
+      subtitle: "-Challa Rohit ",
+      logo_path: "mozilla_logo.png",
+      certificate_link:
+        "https://www.linkedin.com/posts/samvardhan-singh_activity-6956856222310440960-Oljv?utm_source=share&utm_medium=member_desktop",
+      alt_name: "Coursera",
+      color_code: "#FFFFFF",
+    },
+    {
       title: "Tools for Data Science",
       subtitle: "- Alex Aklson",
       logo_path: "ibm_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/FQ2Z3DDWAQZK",
-      alt_name: "Coursera",
-      color_code: "#FFFFFF",
-    },
-    {
-      title: "ICONSCEPT 2024",
-      subtitle: "- NIT Puducherry",
-      logo_path: "NIT.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/FQ2Z3DDWAQZK",
-      alt_name: "Coursera",
-      color_code: "#FFFFFF",
-    },
-    {
-      title: "ITDECC 2023",
-      subtitle: "- SRM",
-      logo_path: "mozilla_logo.png",
       certificate_link:
         "https://www.coursera.org/account/accomplishments/verify/FQ2Z3DDWAQZK",
       alt_name: "Coursera",
