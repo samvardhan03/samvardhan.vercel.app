@@ -340,7 +340,7 @@ const certifications = {
     {
       title: "Acmegrade IOT Internship",
       subtitle: "-Challa Rohit ",
-      logo_path: "mozilla_logo.png",
+      logo_path: "amg.png",
       certificate_link:
         "https://www.linkedin.com/posts/samvardhan-singh_activity-6956856222310440960-Oljv?utm_source=share&utm_medium=member_desktop",
       alt_name: "Coursera",
