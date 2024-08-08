@@ -239,12 +239,12 @@ const certifications = {
       color_code: "#FFFFFF",
     },
      {
-      title: "Coders Cave internship program",
-      subtitle: "- Coders Cave",
-      logo_path: "coderscave.png",
+      title: "ICONSCEPT 2024",
+      subtitle: "- NIT Puducherry",
+      logo_path: "NIT.png",
       certificate_link:
-        "https://certificate.givemycertificate.com/c/afed6472-b825-4673-900f-191c9b69f5cd",
-      alt_name: "GCP",
+        "https://www.linkedin.com/posts/samvardhan-singh_authored-and-presented-my-research-paper-activity-7225408441253605376-422K?utm_source=share&utm_medium=member_desktop",
+      alt_name: "Coursera",
       color_code: "#FFFFFF",
     },
     {
@@ -275,21 +275,21 @@ const certifications = {
       color_code: "#FFFFFF",
     },
     {
-      title: "ICONSCEPT 2024",
-      subtitle: "- NIT Puducherry",
-      logo_path: "NIT.png",
-      certificate_link:
-        "https://www.linkedin.com/posts/samvardhan-singh_authored-and-presented-my-research-paper-activity-7225408441253605376-422K?utm_source=share&utm_medium=member_desktop",
-      alt_name: "Coursera",
-      color_code: "#FFFFFF",
-    },
-    {
       title: "Data Analysis with Python",
       subtitle: "- Jospeh santarcangelo",
       logo_path: "ibm_logo.png",
       certificate_link:
         "https://coursera.org/share/12b7e5a79479e9d3a681130047c132ad",
       alt_name: "IBM",
+      color_code: "#FFFFFF",
+    },
+    {
+      title: "Coders Cave internship program",
+      subtitle: "- Coders Cave",
+      logo_path: "coderscave.png",
+      certificate_link:
+        "https://certificate.givemycertificate.com/c/afed6472-b825-4673-900f-191c9b69f5cd",
+      alt_name: "GCP",
       color_code: "#FFFFFF",
     },
     {
