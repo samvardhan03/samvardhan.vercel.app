@@ -229,6 +229,15 @@ const certifications = {
       alt_name: "NPTEL",
       color_code: "#FFFFFF",
     },
+    {
+      title: "IBM DATA SCIENCE ",
+      subtitle: "- Rav Ahuja ",
+      logo_path: "ibm_logo.png",
+      certificate_link:
+        "https://coursera.org/share/e8d525a4c1ede5b81dc6a574975a8504",
+      alt_name: "Stanford University",
+      color_code: "#FFFFFF",
+    },
      {
       title: "Coders Cave internship program",
       subtitle: "- Coders Cave",
@@ -239,12 +248,12 @@ const certifications = {
       color_code: "#FFFFFF",
     },
     {
-      title: "IBM DATA SCIENCE ",
-      subtitle: "- Rav Ahuja ",
+      title: "Introduction to Data Analytics",
+      subtitle: "- Yan Lao",
       logo_path: "ibm_logo.png",
       certificate_link:
-        "https://coursera.org/share/e8d525a4c1ede5b81dc6a574975a8504",
-      alt_name: "Stanford University",
+        "https://www.coursera.org/account/accomplishments/verify/9X2TT27B8B7Z",
+      alt_name: "deeplearning.ai",
       color_code: "#FFFFFF",
     },
     {
@@ -298,6 +307,42 @@ const certifications = {
       logo_path: "ibm_logo.png",
       certificate_link:
         "https://www.coursera.org/account/accomplishments/records/UKY4R2SD67NB",
+      alt_name: "Coursera",
+      color_code: "#FFFFFF",
+    },
+    {
+      title: "What is Data Science",
+      subtitle: "- Alex Aklson",
+      logo_path: "ibm_logo.png",
+      certificate_link:
+        "https://www.coursera.org/account/accomplishments/verify/FKULLYNNLLPL",
+      alt_name: "Coursera",
+      color_code: "#FFFFFF",
+    },
+    {
+      title: "Tools for Data Science",
+      subtitle: "- Alex Aklson",
+      logo_path: "ibm_logo.png",
+      certificate_link:
+        "https://www.coursera.org/account/accomplishments/verify/FQ2Z3DDWAQZK",
+      alt_name: "Coursera",
+      color_code: "#FFFFFF",
+    },
+    {
+      title: "ICONSCEPT 2024",
+      subtitle: "- NIT Puducherry",
+      logo_path: "ibm_logo.png",
+      certificate_link:
+        "https://www.coursera.org/account/accomplishments/verify/FQ2Z3DDWAQZK",
+      alt_name: "Coursera",
+      color_code: "#FFFFFF",
+    },
+    {
+      title: "ITDECC 2023",
+      subtitle: "- SRM",
+      logo_path: "mozilla_logo.png",
+      certificate_link:
+        "https://www.coursera.org/account/accomplishments/verify/FQ2Z3DDWAQZK",
       alt_name: "Coursera",
       color_code: "#FFFFFF",
     },
