@@ -331,7 +331,7 @@ const certifications = {
     {
       title: "ICONSCEPT 2024",
       subtitle: "- NIT Puducherry",
-      logo_path: "ibm_logo.png",
+      logo_path: "NIT.png",
       certificate_link:
         "https://www.coursera.org/account/accomplishments/verify/FQ2Z3DDWAQZK",
       alt_name: "Coursera",
