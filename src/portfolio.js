@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "I am an engineering student due to graduate in 2025,proficient in web development, neural networks and Python,I am Eager to continue pushing boundaries and making meaningful contributions in the tech industry.",
   resumeLink: 
-    "https://drive.google.com/file/d/1vJsgMYsQaQEpLBK4Q3cKFRrtDzsfZonj/view",
+    "https://drive.google.com/file/d/1iLrZy5E5m2XKp8ojc1BeiNvHIAvYtjq-/view",
   portfolio_repository: "https://github.com/samvardhan03",
   githubProfile: "https://github.com/samvardhan03",
 };
